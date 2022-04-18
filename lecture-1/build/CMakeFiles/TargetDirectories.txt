@@ -1,0 +1,4 @@
+/home/ahmetberke/workspace/cpp-learning/hello-world/build/CMakeFiles/rebuild_cache.dir
+/home/ahmetberke/workspace/cpp-learning/hello-world/build/CMakeFiles/edit_cache.dir
+/home/ahmetberke/workspace/cpp-learning/hello-world/build/CMakeFiles/main.dir
+/home/ahmetberke/workspace/cpp-learning/hello-world/build/CMakeFiles/tools.dir

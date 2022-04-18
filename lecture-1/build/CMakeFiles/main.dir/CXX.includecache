@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmetberke/workspace/cpp-learning/hello-world/lib/tools.hpp
+
+/home/ahmetberke/workspace/cpp-learning/hello-world/main.cpp
+iostream
+-
+string
+-
+lib/tools.hpp
+/home/ahmetberke/workspace/cpp-learning/hello-world/lib/tools.hpp
+
