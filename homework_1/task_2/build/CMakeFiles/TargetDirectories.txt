@@ -1,0 +1,6 @@
+/home/ahmetberke/workspace/cpp-learning/homework_1/task_2/build/CMakeFiles/rebuild_cache.dir
+/home/ahmetberke/workspace/cpp-learning/homework_1/task_2/build/CMakeFiles/edit_cache.dir
+/home/ahmetberke/workspace/cpp-learning/homework_1/task_2/build/CMakeFiles/main.dir
+/home/ahmetberke/workspace/cpp-learning/homework_1/task_2/build/include/CMakeFiles/rebuild_cache.dir
+/home/ahmetberke/workspace/cpp-learning/homework_1/task_2/build/include/CMakeFiles/edit_cache.dir
+/home/ahmetberke/workspace/cpp-learning/homework_1/task_2/build/include/CMakeFiles/ipb_arithmetic.dir
