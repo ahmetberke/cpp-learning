@@ -1,0 +1,2 @@
+/usr/bin/ar qc libipb_arithmetic.a  CMakeFiles/ipb_arithmetic.dir/__/src/sum.cpp.o CMakeFiles/ipb_arithmetic.dir/__/src/subtract.cpp.o
+/usr/bin/ranlib libipb_arithmetic.a
