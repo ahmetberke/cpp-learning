@@ -1,0 +1,1 @@
+cmake -DGLFW_BUILD_DOCS=OFF -DUSE_IPB_ARITHMETIC=ON -S . -B ./build
