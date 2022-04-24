@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmetberke/workspace/cpp-learning/homework_3/api/html_writer.hpp
+string
+-
+
+/home/ahmetberke/workspace/cpp-learning/homework_3/api/image_browser.cpp
+image_browser.hpp
+/home/ahmetberke/workspace/cpp-learning/homework_3/api/image_browser.hpp
+html_writer.hpp
+/home/ahmetberke/workspace/cpp-learning/homework_3/api/html_writer.hpp
+array
+-
+string
+-
+tuple
+-
+vector
+-
+iostream
+-
+
+/home/ahmetberke/workspace/cpp-learning/homework_3/api/image_browser.hpp
+array
+-
+string
+-
+tuple
+-
+vector
+-
+

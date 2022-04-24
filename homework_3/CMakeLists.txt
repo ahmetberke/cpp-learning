@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.5.1)
+project(main)
+add_library(html_writer ./api/html_writer.hpp ./api/html_writer.cpp)
+add_library(image_browser ./api/image_browser.hpp ./api/image_browser.cpp)
+set(SET_CXX_STANDART 17)
+add_executable(main main.cpp)
+target_link_libraries(image_browser html_writer)
+target_link_libraries(main image_browser)
